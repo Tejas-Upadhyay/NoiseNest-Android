@@ -1,6 +1,3 @@
-# NoiseNest
-
-```markdown
 # NoiseNest 🪺  
 **Android App** | _Find quiet study spots with crowdsourced noise reports_  
 
@@ -45,7 +42,7 @@ NoiseNest helps students and remote workers find quiet spaces nearby by leveragi
 1. **Clone the repo**:  
    ```bash
    git clone https://github.com/yourusername/noisenest-android.git
-   ```
+
 2. **Open in Android Studio**:  
    - Import the project.  
 3. **Set up Firebase**:  
@@ -96,4 +93,3 @@ dependencies {
 MIT © [Your Name]  
 
 > **Note**: Screenshots should show **Android-specific UI** (e.g., Material 3 FABs, Android-style navigation). Replace placeholders with actual APK screenshots later.
-```
